@@ -6,7 +6,6 @@ A central index of `ek-mc` projects, live demos, and current status.
 |---|---|---|---|---|---|---|
 | Physics Game | Web App | https://github.com/ek-mc/physics-game | https://ek-mc.github.io/physics-game/ | v0.1.0 | 2026-03-06 | Active |
 | LaTeX Converter | Web App | https://github.com/ek-mc/latex-converter | https://ek-mc.github.io/latex-converter/ | v0.1.0 | 2026-03-06 | Active |
-| Dictionary Game | Web App | https://github.com/ek-mc/dictionary-game | https://ek-mc.github.io/dictionary-game/ | v0.1.0 | 2026-03-06 | Active |
 | Vibe DXF Viewer | Web App | https://github.com/ek-mc/vibe-dxf-viewer | https://ek-mc.github.io/vibe-dxf-viewer/ | v0.1.0 | 2026-03-06 | Active |
 | EasyPercent Calculator | Web App | https://github.com/ek-mc/easypercent-percentage-calculator | https://easypercent.eu/ | v0.1.0 | 2026-03-06 | Active |
 | ek-mc.github.io | Web App | https://github.com/ek-mc/ek-mc.github.io | https://ek-mc.github.io/ | v0.1.0 | 2026-03-06 | Active |
