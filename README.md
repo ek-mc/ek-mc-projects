@@ -12,7 +12,7 @@ A central index of `ek-mc` projects, live demos, and current status.
 | MC-Class Dark (Firefox) | Extension | https://github.com/ek-mc/mc-class-dark-firefox-extension | https://addons.mozilla.org/en-US/firefox/addon/mc-class-dark-theme/ | v0.1.7 | 2026-03-07 | Active |
 | MC-Class Dark (Chrome) | Extension | https://github.com/ek-mc/mc-class-dark-chrome-extension | https://chromewebstore.google.com/detail/mc-class-dark-theme/laembkhianpaagagkjjhdhkjmpbhpijb | v0.1.5 | 2026-03-07 | Active |
 | MC-Class Dark (Tampermonkey) | Extension | https://github.com/ek-mc/mc-class-dark-tampermonkey | https://greasyfork.org/en/scripts/568157-mc-class-dark-theme | v0.1.4 | 2026-03-07 | Active |
-| RAID Health Monitor | Utility | https://github.com/ek-mc/raid-health-monitor | https://github.com/ek-mc/raid-health-monitor | v0.1.0 | 2026-03-05 | Active |
+| RAID Health Monitor | Utility | https://github.com/ek-mc/raid-health-monitor | https://github.com/ek-mc/raid-health-monitor | v0.2.0 | 2026-03-09 | Active |
 | Polymarket Dashboard | Utility | https://github.com/ek-mc/polymarket-dashboard | https://github.com/ek-mc/polymarket-dashboard | v0.1.0 | 2026-03-05 | Active |
 
 ## License
