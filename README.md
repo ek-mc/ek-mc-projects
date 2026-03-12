@@ -15,6 +15,7 @@ A central index of `ek-mc` projects, live demos, and current status.
 | RAID Health Monitor | Utility | https://github.com/ek-mc/raid-health-monitor | https://github.com/ek-mc/raid-health-monitor | v0.2.0 | 2026-03-09 | Active |
 | Heartbeat Helper for OpenClaw | Utility | https://github.com/ek-mc/heartbeat-helper-for-openclaw | https://github.com/ek-mc/heartbeat-helper-for-openclaw | v0.1.0 | 2026-03-09 | Active |
 | Polymarket Dashboard | Utility | https://github.com/ek-mc/polymarket-dashboard | https://github.com/ek-mc/polymarket-dashboard | v0.1.0 | 2026-03-05 | Active |
+| brender | CLI / npm Package | https://github.com/ek-mc/brender | https://www.npmjs.com/package/brender | v1.0.3 | 2026-03-12 | Active |
 
 ## License
 MIT
