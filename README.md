@@ -15,6 +15,7 @@ A central index of `ek-mc` projects, live demos, and current status.
 | Heartbeat Helper for OpenClaw | Utility | https://github.com/ek-mc/heartbeat-helper-for-openclaw | https://github.com/ek-mc/heartbeat-helper-for-openclaw | v0.1.0 | 2026-03-09 | Active |
 | Polymarket Dashboard | Utility | https://github.com/ek-mc/polymarket-dashboard | https://github.com/ek-mc/polymarket-dashboard | v0.1.0 | 2026-03-05 | Active |
 | brender | CLI / npm Package | https://github.com/ek-mc/brender | https://www.npmjs.com/package/brender | v1.0.3 | 2026-03-12 | Active |
+| mini-firewall | Utility / Security Script | https://github.com/ek-mc/mini-firewall | https://github.com/ek-mc/mini-firewall | v0.1.0 | 2026-03-15 | Active |
 
 ## License
 MIT
